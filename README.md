@@ -1,22 +1,54 @@
-### Hi, I’m Daria 👋
 
-I’m currently retraining as a **Data & Process Analyst** with a strong focus on **analytics and programming**.
+---
 
-During my retraining, I work with data to understand processes, find patterns, and turn raw information into clear insights.  
-I enjoy structured thinking, clean data, and practical solutions that make work easier and more efficient.
+## 👋 Hi, ich bin Daria
 
-### What I focus on:
-- Data analysis and data cleaning  
-- SQL queries and reporting  
-- Python (Pandas, basic automation)  
-- Process analysis and documentation  
-- Clear and understandable results
+Ich befinde mich aktuell in einer **Umschulung zur Data & Process Analystin** mit einem klaren Schwerpunkt auf **Datenanalyse, analytischem Denken und Programmierung**.
 
-### What you’ll find in my GitHub:
-This profile contains practical learning and practice projects related to data analysis, programming, and process-oriented thinking.
-Each project is documented step by step and shows my analytical approach and continuous learning progress.
+Im Rahmen meiner Umschulung arbeite ich mit Daten, um Prozesse zu verstehen, Muster zu erkennen und aus Rohdaten **klare, nachvollziehbare Erkenntnisse** abzuleiten.
+Ich schätze **strukturiertes Arbeiten**, **saubere Daten** und **praxisnahe Lösungen**, die Abläufe transparenter und effizienter machen.
 
-### Tech Stack:
-Python | SQL | Pandas | Matplotlib | Seaborn | Excel | Git
+---
 
-I’m motivated, detail-oriented, and continuously developing my technical and analytical skills.
+## 🔍 Meine Schwerpunkte
+
+* Datenanalyse und Datenbereinigung
+* KPI-Analyse und Auswertung
+* SQL-Abfragen und Reporting
+* Python (Pandas, grundlegende Automatisierung)
+* Prozessanalyse und Dokumentation
+* Verständliche und klar präsentierte Ergebnisse
+
+---
+
+## 📂 Inhalte auf meinem GitHub
+
+Auf diesem GitHub-Profil finden sich **praxisnahe Lern- und Übungsprojekte**
+aus dem Bereich **Datenanalyse, Programmierung und prozessorientiertes Denken**.
+
+Jedes Projekt ist **schrittweise dokumentiert** und zeigt:
+
+* meine analytische Vorgehensweise
+* den Umgang mit realitätsnahen Datensätzen
+* meine kontinuierliche fachliche Weiterentwicklung
+
+---
+
+## 🛠️ Tech Stack
+
+**Python | SQL | Pandas | Matplotlib | Seaborn | Excel | Git**
+
+---
+
+## ✨ Über mich
+
+Ich arbeite gern strukturiert und analytisch und habe Freude daran,
+aus Daten klare und verständliche Erkenntnisse zu gewinnen.
+Im Rahmen meiner Umschulung beschäftige ich mich mit
+Datenanalyse, KPI-Auswertung und der verständlichen Aufbereitung von Ergebnissen.
+
+Mir sind saubere Daten, logische Strukturen und
+praxisnahe Lösungen wichtig, die Prozesse transparenter
+und effizienter machen.
+---
+
